@@ -1,2 +1,2 @@
 # MirrorFashion
-Projeto realizado em sala de aula
+Projeto de e-commerce da disciplina Programação de Sítios Internet!
